@@ -1,14 +1,2 @@
 Flask
 gunicorn
-datetime
-mysql.connector
-typing
-sqlalchemy
-logging
-re
-thread
-threading
-time
-sys
-disconnect
-cryptocode
