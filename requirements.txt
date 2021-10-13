@@ -4,7 +4,6 @@ datetime
 mysql.connector
 typing
 sqlalchemy
-urllib
 logging
 re
 thread
@@ -12,7 +11,4 @@ threading
 time
 sys
 disconnect
-json
-requests
 cryptocode
-pprint
